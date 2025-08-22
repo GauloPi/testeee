@@ -1,4 +1,5 @@
 #TESTE DE TKINTE
+#PARA FUTURAMENTE FAZER UM EXECUTAVEL
 import tkinter as tk
 
 janela = tk.Tk()
