@@ -25,9 +25,6 @@ Este projeto tem como objetivo **importar dados históricos de ativos financeiro
    ```bash
    pip install yfinance pandas
 3. Execute o script:
-   ```bash
-  python yahoo_to_mt.py
-
 
 5. Informe o ticker do ativo (ex: VALE3.SA, PETR4.SA).
 
